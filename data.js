@@ -36,16 +36,6 @@ export const data = [
       },
     ],
   },
-  //   1. Acep Gunawan
-  // 2. Lilis Kusmayani
-  // 3. Novi
-  // 4. Hermawan
-  // 5. Nanang Setiawan
-  // 6. Anwar Suhendra
-  // 7. Dedi
-  // 8. Yolanda
-  // 9. Neni
-  // 10. Bambang
   {
     name: "Engkus Kustaman",
     children: [
