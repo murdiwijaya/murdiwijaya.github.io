@@ -1,5 +1,12 @@
 export const data = [
-  { name: "Tardi Murdi", children: [] },
+  { name: "Tardi Murdi", children: [
+    { name: "Eti Surtiati" }, 
+    { name: "Edi Sucipto" }, 
+    { name: "Elis Ema Surtiah" }, 
+    { name: "Agus Edward Suryanto" }, 
+    { name: "Endang Suryaman" },
+    { name: "Elis Emi Sulasmiati" }, 
+  ] },
   {
     name: "Odong Tardam",
     children: [
